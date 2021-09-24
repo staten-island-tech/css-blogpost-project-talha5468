@@ -1,29 +1,41 @@
 body {
-  background-color: rgb(131, 10, 10);
+  background-color: rgb(231, 206, 150);
 }
 
 .main-header {
   text-align: center;
-  background-color: rgb(100, 10, 10);
+  background-color: rgb(231, 206, 150);
   margin: 60 10px;
-  border: 5px solid rgb(163, 147, 3);
-  color: rgb(163, 147, 3);
+  border: 5px solid rgb(132, 86, 60);
+  color: rgb(132, 86, 60);
 }
 
 .post-class {
   text-align: center;
-  background-color: rgb(100, 10, 10);
+  background-color: rgb(231, 206, 150);
   margin: 60 10px;
-  border: 5px solid rgb(163, 147, 3);
+  border: 5px solid rgb(132, 86, 60);
   padding: 10px 10px;
-  color: rgb(163, 147, 3);
+  color: rgb(132, 86, 60);
 }
-.cookie-pic1 {
-  width: 600;
-}
+
 .text1 {
-  color: rgb(163, 147, 3);
+  color: rgb(132, 86, 60);
 }
 .final {
   font-size: x-large;
+}
+
+.picture1 {
+  width: 1ch;
+}
+.cookiepng1 {
+  width: 300;
+}
+
+.rosscookie {
+  width: 500;
+}
+.fathers {
+  width: 1000;
 }
