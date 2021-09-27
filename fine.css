@@ -8,6 +8,7 @@ body {
   margin: 60 10px;
   border: 5px solid rgb(132, 86, 60);
   color: rgb(132, 86, 60);
+  padding: 40px;
 }
 
 .post-class {
@@ -21,9 +22,21 @@ body {
 
 .text1 {
   color: rgb(132, 86, 60);
+  border: 5px solid rgb(132, 86, 60);
+  padding: 25px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+.text2 {
+  color: rgb(132, 86, 60);
+  border: 5px solid rgb(132, 86, 60);
+  padding: 25px;
+  margin-left: 250px;
+  margin-right: 250px;
 }
 .final {
-  font-size: x-large;
+  font-size: xx-large;
+  font-style: oblique;
 }
 
 .picture1 {
@@ -38,4 +51,16 @@ body {
 }
 .fathers {
   width: 1000;
+}
+
+.declar {
+  color: rgb(132, 86, 60);
+  border: 5px solid rgb(132, 86, 60);
+  padding: 25px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+.finhead {
+  size: 100px;
 }
