@@ -3,12 +3,19 @@ body {
 }
 
 .main-header {
-  text-align: center;
+  position: absolute;
+  top: 5px;
+  left: 12px;
+  font-size: 40;
   background-color: rgb(231, 206, 150);
   margin: 60 10px;
   border: 5px solid rgb(132, 86, 60);
   color: rgb(132, 86, 60);
-  padding: 40px;
+  padding: 35px;
+}
+
+.bloghead {
+  font-size: 27px;
 }
 
 .post-class {
@@ -20,20 +27,6 @@ body {
   color: rgb(132, 86, 60);
 }
 
-.text1 {
-  color: rgb(132, 86, 60);
-  border: 5px solid rgb(132, 86, 60);
-  padding: 25px;
-  margin-left: 250px;
-  margin-right: 250px;
-}
-.text2 {
-  color: rgb(132, 86, 60);
-  border: 5px solid rgb(132, 86, 60);
-  padding: 25px;
-  margin-left: 250px;
-  margin-right: 250px;
-}
 .final {
   font-size: xx-large;
   font-style: oblique;
@@ -46,6 +39,10 @@ body {
   width: 300;
 }
 
+.cookiepng2 {
+  width: 200;
+}
+
 .rosscookie {
   width: 500;
 }
@@ -53,14 +50,14 @@ body {
   width: 1000;
 }
 
-.declar {
+.finhead {
+  size: 100px;
+}
+
+.textbig {
   color: rgb(132, 86, 60);
   border: 5px solid rgb(132, 86, 60);
   padding: 25px;
   margin-left: 250px;
   margin-right: 250px;
-}
-
-.finhead {
-  size: 100px;
 }
