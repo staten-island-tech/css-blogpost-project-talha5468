@@ -1,17 +1,18 @@
 body {
-  background-color: rgb(231, 206, 150);
+  background-color: rgb(217, 170, 95);
 }
 
 .main-header {
   position: absolute;
   top: 5px;
   left: 12px;
-  font-size: 40;
+  font-size: 50;
   background-color: rgb(231, 206, 150);
   margin: 60 10px;
   border: 5px solid rgb(132, 86, 60);
   color: rgb(132, 86, 60);
   padding: 35px;
+  font-family: "Francois One", sans-serif;
 }
 
 .bloghead {
@@ -25,22 +26,22 @@ body {
   border: 5px solid rgb(132, 86, 60);
   padding: 10px 10px;
   color: rgb(132, 86, 60);
-}
-
-.final {
-  font-size: xx-large;
-  font-style: oblique;
+  font-family: "Francois One", sans-serif;
 }
 
 .picture1 {
   width: 1ch;
 }
 .cookiepng1 {
-  width: 300;
+  width: 325;
 }
 
 .cookiepng2 {
-  width: 200;
+  width: 240;
+}
+
+.cookiepng3 {
+  width: 150px;
 }
 
 .rosscookie {
@@ -60,4 +61,23 @@ body {
   padding: 25px;
   margin-left: 250px;
   margin-right: 250px;
+  font-family: "Francois One", sans-serif;
+}
+
+.declar {
+  font-family: "Tangerine", cursive;
+  margin-left: 300px;
+  margin-right: 300px;
+  font-size: 20px;
+}
+
+.fincook {
+  font-family: "Rock Salt", cursive;
+  font-size: 25px;
+}
+
+.sub {
+  position: absolute;
+  right: 30px;
+  top: 10px;
 }
